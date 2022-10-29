@@ -1,4 +1,8 @@
 # matchdep [![Build Status](https://secure.travis-ci.org/tkellen/js-matchdep.svg?branch=master)](http://travis-ci.org/tkellen/js-matchdep)
+
+> ### Forked Version using updated dependencies
+> Original repo at https://github.com/tkellen/js-matchdep
+
 > Use [micromatch] to filter npm module dependencies by name.
 
 [![NPM](https://nodei.co/npm/matchdep.png)](https://nodei.co/npm/matchdep/)
